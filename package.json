@@ -1,0 +1,13 @@
+{
+  "name": "application-name",
+  "description": "Node Excel Export",
+  "version": "0.0.1",
+  "repository": "",
+  "license": "",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "excel-export": "^0.5.1",
+    "superagent": "^3.5.2",
+    "underscore": "^1.8.3"
+  }
+}
